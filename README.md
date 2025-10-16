@@ -8,7 +8,13 @@
   <img alt="davinci resolve" src="https://img.shields.io/badge/-DaVinci%20Resolve-1C1C1C?style=flat-square&logo=davinciresolve&logoColor=white" />
 </p>
 
-<h3>At the moment, I'm learning...</h3>
+<h3>At the moment, I'm working on...</h3>
+<li>CS @ Cornell University </li>
+<li>Knowledge with NLP & Machine Learning</li>
+<li>2.5 years w/ Lua on Roblox games</li>
+<li>Experience w/ Graphic Design & Video Editing</li>
+
+<h3>And learning...!</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />

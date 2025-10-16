@@ -1,4 +1,6 @@
 ## Hi there 👋, I'm Aayan.
+<h2>Let's be buds!</h2>
+
 <h3>Here's the things I can do! </h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />

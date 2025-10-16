@@ -1,5 +1,15 @@
 ## Hi there 👋, I'm Aayan.
 <h3>Here's the things I can do!</h3>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px; padding: 10px; background-color: #f8f8f8;">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" title="CSS3" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" title="Java" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" alt="Lua" title="Lua" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+  <img src="https://cdn.simpleicons.org/davinciresolve/1C1C1C" alt="DaVinci Resolve" title="DaVinci Resolve" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+  <img src="https://cdn.simpleicons.org/procreate/1E1E1E" alt="Procreate" title="Procreate" height="50" style="filter: drop-shadow(0px 0px 3px rgba(0,0,0,0.2));">
+</div>
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />

@@ -21,7 +21,6 @@
 <li> Roblox video game: <a href="https://www.roblox.com/games/15664778655/Knockback" target="_blank">Knockback</a></li>
 <li> Portfolio website. </li>
 <li> GPA calculating website: CourseGrade </li>
-
 <h3>🚀 Learning Goals</h3>
 <p>
   <li> Learn frontend and backend programming. </li>
@@ -30,7 +29,7 @@
 </p>
 
 <h3>📬 Contacting Me </h3>
-Feel free to reach me at my LinkedIn! :)
+<p> Feel free to reach me at my <a href="https://www.linkedin.com/in/aayanhussain07/" target="_blank">LinkedIn</a></li> :) </p>
 
 <h3>🪮 Fun Facts </h3>
 <li> I straighten my hair. </li>

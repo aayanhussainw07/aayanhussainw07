@@ -24,9 +24,9 @@
 
 <h3>🚀 Learning Goals</h3>
 <p>
-  - Learn frontend and backend programming.
-  - Create AI/ML projects.
-  - Learn about authentication systems for websites.
+  <li> Learn frontend and backend programming. </li>
+  <li> Create AI/ML projects. </li>
+  <li> Learn about authentication systems for websites. </li>
 </p>
 
 Feel free to reach me at my LinkedIn! :)

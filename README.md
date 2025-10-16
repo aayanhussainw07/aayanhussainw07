@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Aayan.
-<h2>Let's be buds!</h2>
+<p>Let's be buds!</p>
 
 <h3>Here's the things I can do! </h3>
 <p>

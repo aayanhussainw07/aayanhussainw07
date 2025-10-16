@@ -9,9 +9,9 @@
 </p>
 
 <h3>At the moment, I'm working on...</h3>
-<li>Knockback video game. </li>
-<li>Portfolio website. </li>
-<li>GPA grading website -- CourseGrade </li>
+<li> Roblox video game: Knockback </li>
+<li> Portfolio website. </li>
+<li> GPA calculating website: CourseGrade </li>
 
 <h3>And I'm learning...</h3>
 <p>

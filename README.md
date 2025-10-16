@@ -29,6 +29,7 @@
   <li> Learn about authentication systems for websites. </li>
 </p>
 
+<h3>📬 Contacting Me </h3>
 Feel free to reach me at my LinkedIn! :)
 
 <h3>🪮 Fun Fact</h3>

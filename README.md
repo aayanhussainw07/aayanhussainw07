@@ -1,4 +1,8 @@
 ## Hi there 👋, I'm Aayan.
+<h3>Here's the things I can do!>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
 
 <!--
 **aayanhussainw07/aayanhussainw07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

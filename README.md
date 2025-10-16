@@ -24,5 +24,5 @@
 
 Feel free to reach me at my LinkedIn! :)
 
-<h3>Fun Fact</h3>
-I straighten my hair. 🪮
+<h3>🪮 Fun Fact</h3>
+I straighten my hair.

@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aayan.
+## Hi, I'm Aayan 👋.
 <p>Let's be buds!</p>
 
 <h3>Here's the things I can do! </h3>

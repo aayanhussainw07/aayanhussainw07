@@ -32,5 +32,7 @@
 <h3>📬 Contacting Me </h3>
 Feel free to reach me at my LinkedIn! :)
 
-<h3>🪮 Fun Fact</h3>
-I straighten my hair.
+<h3>🪮 Fun Facts </h3>
+1. I straighten my hair.
+2. My favorite video game character is Sonic the Hedgehog.
+3. Favorite artists at the moment? MJ Apanay, Dominic Fike, & Malcolm Todd.

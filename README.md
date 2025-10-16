@@ -8,7 +8,7 @@
   <img alt="lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
   <img alt="canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img alt="davinci resolve" src="https://img.shields.io/badge/-DaVinci%20Resolve-1C1C1C?style=flat-square&logo=davinciresolve&logoColor=white" />
-  <img alt="procreate" src="https://img.shields.io/badge/-Procreate-1E1E1E?style=flat-square&logo=procreate&logoColor=white" />
+  <img alt="procreate" src="https://img.shields.io/badge/-Procreate-1E1E1E?style=flat-square&logo=procreate&logo=procreate&logoColor=white" />
 </p>
 
 <!--

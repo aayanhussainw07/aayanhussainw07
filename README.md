@@ -18,9 +18,16 @@
 </p>
 
 <h3>💻 At the moment, I'm working on...</h3>
-<li> Roblox video game: Knockback </li>
+<li> Roblox video game: <a href="https://www.roblox.com/games/15664778655/Knockback" target="_blank">Knockback</a></li>
 <li> Portfolio website. </li>
 <li> GPA calculating website: CourseGrade </li>
+
+<h3>🚀 Learning Goals</h3>
+<p>
+  - Learn frontend and backend programming.
+  - Create AI/ML projects.
+  - Learn about authentication systems for websites.
+</p>
 
 Feel free to reach me at my LinkedIn! :)
 

@@ -9,10 +9,9 @@
 </p>
 
 <h3>At the moment, I'm working on...</h3>
-<li>CS @ Cornell University </li>
-<li>Knowledge with NLP & Machine Learning</li>
-<li>2.5 years w/ Lua on Roblox games</li>
-<li>Experience w/ Graphic Design & Video Editing</li>
+<li>Knockback video game. </li>
+<li>Portfolio website. </li>
+<li>GPA grading website -- CourseGrade </li>
 
 <h3>And I'm learning...</h3>
 <p>

@@ -3,11 +3,15 @@
 
 <h3>Here's the things I can do! </h3>
 <p>
-  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img alt="davinci resolve" src="https://img.shields.io/badge/-DaVinci%20Resolve-1C1C1C?style=flat-square&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1C1C1C?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
+  <img src="https://img.shields.io/badge/Procreate-1E1E1E?style=for-the-badge&logo=procreate&logoColor=white" alt="Procreate"/>
+</div>
 </p>
 
 <h3>At the moment, I'm working on...</h3>

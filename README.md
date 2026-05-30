@@ -21,7 +21,7 @@
 <li> <a href="https://www.coursegrade.io/" target="_blank">CourseGrade</a></li>
 
 <h3>📬 Contacting Me </h3>
-<p> Feel free to reach me at my <a href="https://www.linkedin.com/in/aayanhussain07/" target="_blank">LinkedIn</a></li> or email as well :) <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aayanhussainw07@gmail.com" target="_blank">Email</a></li> </p>
+<p> Feel free to reach me at my <a href="https://www.linkedin.com/in/aayanhussain07/" target="_blank">LinkedIn</a></li> or <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aayanhussainw07@gmail.com" target="_blank">Email</a> as well :) </li> </p>
 
 <h3>🪮 Fun Facts </h3>
 <li> I straighten my hair. </li>

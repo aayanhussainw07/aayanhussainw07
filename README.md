@@ -1,5 +1,5 @@
-## Hi, I'm Aayan 👋.
-<p>Wassuppupupupuppupupuuppu</p>
+## Wassup, I'm Aayan 👋
+<p>Heyo!</p>
 
 <h3>🎯 Here's the things I can do! </h3>
 <p>

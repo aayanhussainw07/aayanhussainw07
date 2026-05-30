@@ -18,19 +18,12 @@
 
 <h3>💻 At the moment, I'm working on...</h3>
 <li> Roblox video game: <a href="https://www.roblox.com/games/15664778655/Knockback" target="_blank">Knockback</a></li>
-<li> Portfolio website. </li>
-<li> GPA calculating website: CourseGrade </li>
-<h3>🚀 Learning Goals</h3>
-<p>
-  <li> Learn frontend and backend programming. </li>
-  <li> Create AI/ML projects. </li>
-  <li> Learn about authentication systems for websites. </li>
-</p>
+<li> GPA calculating website: <a href="https://www.coursegrade.io/" target="_blank">CourseGrade</a></li>
 
 <h3>📬 Contacting Me </h3>
-<p> Feel free to reach me at my <a href="https://www.linkedin.com/in/aayanhussain07/" target="_blank">LinkedIn</a></li> :) </p>
+<p> Feel free to reach me at my <a href="https://www.linkedin.com/in/aayanhussain07/" target="_blank">LinkedIn</a></li> or email as well :) <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aayanhussainw07@gmail.com" target="_blank">Email</a></li> </p>
 
 <h3>🪮 Fun Facts </h3>
 <li> I straighten my hair. </li>
 <li> My favorite video game character is Sonic the Hedgehog. </li>
-<li> Favorite artists at the moment? MJ Apanay, Dominic Fike, & Malcolm Todd. </li>
+<li> Favorite artists at the moment: MJ Apanay, Dominic Fike, & Malcolm Todd. </li>
